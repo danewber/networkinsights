@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <TenantName>danewber</TenantName>
+  <TenantSuffix>.NET</TenantSuffix>
+  <EgressIP>192.168.0.1</EgressIP>
+  <CustomerName>Testy McTesterson</CustomerName>
+  <ContactEmail>danewber@microsoft.com</ContactEmail>
+  <WorkspaceID>e7f581da-0c7f-4b59-98cf-42bb0f850df7</WorkspaceID>
+  <SharedKey>K66vbSSpkpu1yCu/9SjSybedBpuzSn23FmH86l9dW0gZsFs8LWeNWw5Q3Qf81PRdV7F2uXf847luuhbHRl1xxA==</SharedKey>
+  <StorageAccountName>netinsightsstorage</StorageAccountName>
+  <StorageAccountKey>K66vbSSpkpu1yCu/9SjSybedBpuzSn23FmH86l9dW0gZsFs8LWeNWw5Q3Qf81PRdV7F2uXf847luuhbHRl1xxA==</StorageAccountKey>
+  <SiteName>Home</SiteName>
+</Settings>
