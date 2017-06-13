@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Lists>
   <TracertIPs>
-    <IPAddress></IPAddress>
+    <IPAddress>192.168.0.1</IPAddress>
   </TracertIPs>
+    <PSPingIPs>
+    <IPAddress>192.168.0.1</IPAddress>
+  </PSPingIPs>
 </Lists>
