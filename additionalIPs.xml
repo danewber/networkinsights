@@ -7,6 +7,6 @@
     <IPAddress>0365.coca-cola.com:443</IPAddress>
   </PSPingIPs>
   <DNSResIPs>
-    <IPAddress>0365.coca-cola.com:443</IPAddress>
+    <IPAddress>0365.coca-cola.com</IPAddress>
   </DNSResIPs>
 </Lists>
