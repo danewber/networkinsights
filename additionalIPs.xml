@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Lists>
   <TracertIPs>
-    <IPAddress>0365.coca-cola.com</IPAddress>
+    <IPAddress></IPAddress>
   </TracertIPs>
   <PSPingIPs>
-    <IPAddress>0365.coca-cola.com:443</IPAddress>
+    <IPAddress></IPAddress>
   </PSPingIPs>
   <DNSResIPs>
-    <IPAddress>0365.coca-cola.com</IPAddress>
+    <IPAddress></IPAddress>
   </DNSResIPs>
 </Lists>
